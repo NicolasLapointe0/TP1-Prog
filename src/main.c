@@ -34,13 +34,13 @@ int main(int argc, char** argv){
         Sort_Inventory();
     }*/
 
-   // if (Choix == 4) {
-   //     Find_By_Position(,position);
-   // }
+    if (Choix == 4) {
+        Find_By_Position(,position);
+    }
 
-   // if (Choix == 5) {
-   //     Find_By_Name(, name);
-   // }
+    if (Choix == 5) {
+        Find_By_Name(, name);
+    }
 
     if (Choix == 6) {
         See_Items_Quantity(quantiter);
