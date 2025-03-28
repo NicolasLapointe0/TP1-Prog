@@ -30,9 +30,9 @@ int main(int argc, char** argv){
         Remove_Item(item, position);
     }
 
-   /* if (Choix == 3) {
+    if (Choix == 3) {
         Sort_Inventory();
-    }*/
+    }
 
     if (Choix == 4) {
         Find_By_Position(,position);
